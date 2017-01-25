@@ -1,0 +1,12 @@
+{
+  "name": "smaliankou/test-tra",
+  "description": "test tra",
+  "minimum-stability": "alpha",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "author's name",
+      "email": "email@example.com"
+    }
+  ]
+}
